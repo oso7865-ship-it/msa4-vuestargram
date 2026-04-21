@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "img": "/dev/cat.jpg",
+    "content": "물음표 고양이입니다.",
+    "writer": "둘리"
+  },
+  {
+    "id": 2,
+    "img": "/dev/choco.jpg",
+    "content": ",초코초코초코",
+    "writer": "둘리"
+  },
+  {
+    "id": 3,
+    "img": "/dev/kanna.jpg",
+    "content": "칸나칸나",
+    "writer": "도우너"
+  },
+  {
+    "id": 4,
+    "img": "/dev/koitsu.png",
+    "content": "이놈이~~~",
+    "writer": "도우너"
+  },
+  {
+    "id": 5,
+    "img": "/dev/ok.png",
+    "content": "아.. 안돼... 돼!",
+    "writer": "김성모 화백"
+  },
+  {
+    "id": 6,
+    "img": "/dev/osoi.jpg",
+    "content": "느려~ ㅋ",
+    "writer": "소환사"
+  },
+  {
+    "id": 7,
+    "img": "/dev/zayeung.jpg",
+    "content": "자연인은 신기해.",
+    "writer": "헬스맨"
+  },
+  {
+    "id": 8,
+    "img": "/dev/zzazan.jpg",
+    "content": "짜잔~ 또 속으셨군요?",
+    "writer": "짜잔형"
+  }
+]

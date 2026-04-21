@@ -1,0 +1,44 @@
+:root {
+  --main--color-black: #000;
+  --main--color-gray: #464646;
+  --main--color-white: #fff;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#app {
+  margin: auto;
+  padding: 0 20px;
+  max-width: 1000px;
+}
+
+.btn {
+  cursor: pointer;
+  border-radius: 10px;
+  border: none;
+}
+
+.btn-small {
+  width: 90px;
+  height: 45px;
+  font-size: 20px;
+}
+
+.btn-big {
+  width: 350px;
+  height: 40px;
+  font-size: 20px;
+}
+
+.btn-gray {
+  background-color: var(--main--color-gray);
+  color: var(--main--color-white);
+}
+.btn-white {
+  background-color: var(--main--color-white);
+  color: var(--main--color-black);
+}
