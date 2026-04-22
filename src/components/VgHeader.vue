@@ -1,10 +1,13 @@
 <script setup>
+import { useCounterStore } from '../stores/useCounterStore';
 
+
+const counterStore = useCounterStore();
 </script>
 
 <template>
   <div class="header">
-    <h1>Vuegram</h1>
+    <h1>Vuegram {{ counterStore.cnt }}</h1>
     <div class="header-btn-box">
       <button type="button" class="btn btn-small btn-gray">Sign In</button>
       <button type="button" class="btn btn-small btn-white">Sign Up</button>
